@@ -1,11 +1,52 @@
-﻿beaconpack.playname=BeaconPlay Pack
+﻿## SECTION : BEACON PLAY UI
+
+beaconpack.playname=BeaconPlay Pack
 beacon.apps=Apps
 menu.market=Marketplace
 menu.featured=Featured
 networkWorld.featured=Featured Servers
 menu.market.long=Minecraft Marketplace
-## desc.mcdesc is used in the Play area default page.
-## Please be sure that ALL the content is on one line. For newlines, \n is your friend.
+
+// desc.mcdesc is used in the Play area default page.
+// Please be sure that ALL the content is on one line. For newlines, \n is your friend.
 desc.mcdesc=Minecraft is a game about placing blocks to build incredible things. Or maybe it is a game about battling monsters and getting more powerful. Or maybe it is about building giant mechanisms to do a simple task, or maybe play another video game. Ultimately, Minecraft is about having fun.\nIn Minecraft, people have built giant mansions, hand-carved massive cave systems, and even completed challenges in Survival Mode with their feet! The blockiness is a part of the game, a feature: if you don\'t like it, why did you bother spending twenty dollars on it?\nMany players, such as myself, have made things that modify the game using built in tools. Sometimes, it turns out great and becomes an awesome addition to the game (that in some cases gets removed by stingy companies\' lawsuits. I\'m looking at you Pokemon Company). Sometimes, it turns out terrible and nobody cares about it anymore.\nA few well-known players of the game use YouTube to show other people what the game is like and what they\'ve done in it. Sometimes these people stage skits and acts to entertain their viewers. Ultimately, these people use their viewers for money, but some do not care about money (anymore?) (ie PewDiePie and SSundee).\nEven the game\'s developers like to show things off to other people (twitch.tv/minecraft) and people love it. People even donate money to them. They use it to fund the game that they develop.\
-## desc.beacon.playdesc is the description for BeaconPlay Pack.
+
+// desc.beacon.playdesc is the description for BeaconPlay Pack.
 desc.beacon.playdesc=The BeaconPlay Pack for Minecraft Bedrock, made by BlakesUnited, is a resource pack that replaces this screen (and tweaks the title screen). Its goal? To provide a different, more capable interface. It separates local worlds, Realms, friends\' worlds, and online Minecraft servers. It is intended to work with any additional Beacon packs that may be released in the future.\nThis pack does not affect the game past the Play screen. It does not alter the Settings screen, but it breaks a fade feature that broke the menu for a while. It will be restored when I can figure out how.\nTo add your own apps, contact Mojang and BlakesUnited. I can be found on the Lifeboat server often (play.lbsg.net) so you might reach me there. If you encounter bugs, compile them somewhere and send them to me once you get more. I can be found on GitHub as bleonard252.
+
+## -----------------------------------
+## SECTION : ORGANIZED OPTION
+## -----------------------------------
+
+//Setting Panels
+panel.player=Player
+panel.graphics=Graphics
+panel.video=Advanced Video
+panel.info=Information
+
+//Changelog
+text.changelog1=§aAdd-on Info
+text.changelog2=Build: 2.0.3
+text.changelog6=-Hide HUD and Hide Hand are easier to access like Third Person
+text.changelog7=-Added screen animations toggle!
+text.changelog8=-Added some language support! (Player, Graphics, Andvanced video panels only for now)
+text.changelog10=-Report bugs/feedback on twitter @NetherNinja
+
+//Custom Options
+toggle.more_info=More Info
+header.preferences=Preferences
+
+//More Info
+text.info1=This UI settings pack is a WIP (work in progress), so always be expecting new updates, changes, switches, and more features as Minecraft updates come out more and more.
+text.info2=This UI settings pack was inspired by the feedback of Minecraft bedrock as a whole, this ui pack has gone through alot, from very few features to many name changes like time saver, or quick settings. Once again please give me feedback on my ui pack, It'll help for future updates.
+
+//Dividers
+text.divide1=§aCreator Info:
+text.divide2=Changelog:
+text.divide3=INFO:
+text.divide4=HISTORY:
+space.spacer= 
+
+## -----------------------------------
+## SECTION : ORGANIZED OPTION
+## -----------------------------------
