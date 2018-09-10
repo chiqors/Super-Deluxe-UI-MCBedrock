@@ -13,5 +13,20 @@
             "uuid": "3f6644e8-3da1-46cd-8f4c-c7daea187d30",
             "version": [1, 0, 0]
         }
-    ]
+    ],
+	"subpacks": [
+	    {
+			"folder_name": "Nostalgia",
+			"name": "Nostalgia (v1.1)",
+			"memory_tier": 1
+		},{
+			"folder_name": "BetterTogether",
+			"name": "Better Together (v1.2)",
+			"memory_tier": 2
+		},{
+			"folder_name": "Aquatic",
+			"name": "Aquatic (v1.5)",
+			"memory_tier": 3
+		}
+	]
 }
