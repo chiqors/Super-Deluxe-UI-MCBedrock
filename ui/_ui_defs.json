@@ -3,9 +3,7 @@
   "ui_defs": [
 	"ui/settings_sections/general_section.json",
     "ui/settings_sections/settings_common_play.json",
-	"settings_panels/graphic_section.json",
-    "settings_panels/information_section.json",
-    "settings_panels/player_section.json",
-    "settings_panels/video_section.json"
+	"settings_panels/organized_section.json",
+    "settings_panels/information_section.json"
   ]
 }
