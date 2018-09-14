@@ -45,4 +45,956 @@ text.divide1=§aCreator Info:
 text.divide2=Changelog:
 text.divide3=INFO:
 text.divide4=HISTORY:
-space.spacer= 
+
+## -----------------------------------
+## SECTION : INFO4U
+## -----------------------------------
+
+item.air.name=Air §r§a§l§o::§r§b air
+item.apple.name=Apple §r§a§l§o::§r§b apple §r§a§l§o::§r§6 88
+item.golden_apple.name=Golden Apple §r§a§l§o::§r§b golden_apple §r§a§l§o::§r§6 88
+item.appleEnchanted.name=Enchanted Apple §r§a§l§o::§r§b appleenchanted §r§a§l§o::§r§6 88
+item.armor_stand.name=Armor Stand §r§a§l§o::§r§b armor_stand
+item.arrow.name=Arrow §r§a§l§o::§r§b arrow §r§a§l§o::§r§d 0, 6-40
+item.tipped_arrow.name=Tipped Arrow §r§a§l§o::§r§b arrow §r§a§l§o::§r§d 0, 6-40
+item.bed.black.name=Black Bed §r§a§l§o::§r§b bed §r§a§l§o::§r§d 0
+item.bed.red.name=Red Bed §r§a§l§o::§r§b bed §r§a§l§o::§r§d 14
+item.bed.green.name=Green Bed §r§a§l§o::§r§b bed §r§a§l§o::§r§d 13
+item.bed.brown.name=Brown Bed §r§a§l§o::§r§b bed §r§a§l§o::§r§d 12
+item.bed.blue.name=Blue Bed §r§a§l§o::§r§b bed §r§a§l§o::§r§d 11
+item.bed.purple.name=Purple Bed §r§a§l§o::§r§b bed §r§a§l§o::§r§d 10
+item.bed.cyan.name=Cyan Bed §r§a§l§o::§r§b bed §r§a§l§o::§r§d 9
+item.bed.silver.name=Light Gray Bed §r§a§l§o::§r§b bed §r§a§l§o::§r§d 8
+item.bed.gray.name=Gray Bed §r§a§l§o::§r§b bed §r§a§l§o::§r§d 7
+item.bed.pink.name=Pink Bed §r§a§l§o::§r§b bed §r§a§l§o::§r§d 6
+item.bed.lime.name=Lime Bed §r§a§l§o::§r§b bed §r§a§l§o::§r§d 5
+item.bed.yellow.name=Yellow Bed §r§a§l§o::§r§b bed §r§a§l§o::§r§d 4
+item.bed.lightBlue.name=Light Blue Bed §r§a§l§o::§r§b bed §r§a§l§o::§r§d 3
+item.bed.magenta.name=Magenta Bed §r§a§l§o::§r§b bed §r§a§l§o::§r§d 2
+item.bed.orange.name=Orange Bed §r§a§l§o::§r§b bed §r§a§l§o::§r§d 1
+item.bed.white.name=White Bed §r§a§l§o::§r§b bed §r§a§l§o::§r§d 0
+item.steak.name=Steak §r§a§l§o::§r§b cooked_beef §r§a§l§o::§r§6 8888
+item.beef.name=Raw Beef §r§a§l§o::§r§b beef §r§a§l§o::§r§6 8o
+item.beetroot.name=Beetroot §r§a§l§o::§r§b beetroot §r§a§l§o::§r§6 o
+item.beetroot_soup.name=Beetroot Soup §r§a§l§o::§r§b beetroot_soup §r§a§l§o::§r§6 888
+item.blaze_powder.name=Blaze Powder §r§a§l§o::§r§b blaze_powder
+item.blaze_rod.name=Blaze Rod §r§a§l§o::§r§b blaze_rod
+item.boat.oak.name=Oak Boat §r§a§l§o::§r§b boat §r§a§l§o::§r§d 0-5
+item.boat.spruce.name=Spruce Boat §r§a§l§o::§r§b boat §r§a§l§o::§r§d 0-5
+item.boat.birch.name=Birch Boat §r§a§l§o::§r§b boat §r§a§l§o::§r§d 0-5
+item.boat.jungle.name=Jungle Boat §r§a§l§o::§r§b boat §r§a§l§o::§r§d 0-5
+item.boat.acacia.name=Acacia Boat §r§a§l§o::§r§b boat §r§a§l§o::§r§d 0-5
+item.boat.big_oak.name=Dark Oak Boat §r§a§l§o::§r§b boat §r§a§l§o::§r§d 0-5
+item.bone.name=Bone §r§a§l§o::§r§b bone
+item.book.name=Book §r§a§l§o::§r§b book
+item.chainmail_boots.name=Chain Boots §r§a§l§o::§r§b chainmail_boots
+item.leather_boots.name=Leather Boots §r§a§l§o::§r§b leather_boots
+item.diamond_boots.name=Diamond Boots §r§a§l§o::§r§b diamond_boots
+item.golden_boots.name=Golden Boots §r§a§l§o::§r§b golden_boots
+item.iron_boots.name=Iron Boots §r§a§l§o::§r§b iron_boots
+item.bow.name=Bow §r§a§l§o::§r§b bow
+item.bowl.name=Bowl §r§a§l§o::§r§b bowl
+item.bread.name=Bread §r§a§l§o::§r§b bread §r§a§l§o::§r§6 88o
+item.brewing_stand.name=Brewing Stand §r§a§l§o::§r§b brewing_stand
+item.brick.name=Brick §r§a§l§o::§r§b brick
+item.bucket.name=Bucket §r§a§l§o::§r§b bucket §r§a§l§o::§r§d 0-6, 8, 10
+item.bucketLava.name=Lava Bucket §r§a§l§o::§r§b bucket §r§a§l§o::§r§d 10
+item.bucketWater.name=Water Bucket §r§a§l§o::§r§b bucket §r§a§l§o::§r§d 8
+item.bucketFish.name=Bucket of Cod §r§a§l§o::§r§b bucket §r§a§l§o::§r§d 2
+item.bucketSalmon.name=Bucket of Salmon §r§a§l§o::§r§b bucket §r§a§l§o::§r§d 3
+item.bucketTropical.name=Bucket of Tropical Fish §r§a§l§o::§r§b bucket §r§a§l§o::§r§d 4
+item.bucketPuffer.name=Bucket of Pufferfish §r§a§l§o::§r§b bucket §r§a§l§o::§r§d 5
+item.bucketCustomFish.name=Bucket of §r§a§l§o::§r§b bucket §r§a§l§o::§r§d 0-6, 8, 10
+item.cake.name=Cake §r§a§l§o::§r§b cake §r§a§l§o::§r§6 8 (slice) 8888888 (whole)
+item.golden_carrot.name=Golden Carrot §r§a§l§o::§r§b golden_carrot §r§a§l§o::§r§6 888
+item.carrotOnAStick.name=Carrot on a Stick §r§a§l§o::§r§b carrotOnAStick
+item.carrot.name=Carrot §r§a§l§o::§r§b carrot §r§a§l§o::§r§6 8o
+item.cauldron.name=Cauldron §r§a§l§o::§r§b cauldron
+item.charcoal.name=Charcoal §r§a§l§o::§r§b coal §r§a§l§o::§r§d 1
+item.chainmail_chestplate.name=Chain Chestplate §r§a§l§o::§r§b chainmail_chestplate
+item.leather_chestplate.name=Leather Tunic §r§a§l§o::§r§b leather_chestplate
+item.diamond_chestplate.name=Diamond Chestplate §r§a§l§o::§r§b diamond_chestplate
+item.golden_chestplate.name=Golden Chestplate §r§a§l§o::§r§b golden_chestplate
+item.iron_chestplate.name=Iron Chestplate §r§a§l§o::§r§b iron_chestplate
+item.chorus_fruit.name=Chorus Fruit §r§a§l§o::§r§b chorus_fruit §r§a§l§o::§r§6 88
+item.chorus_fruit_popped.name=Popped Chorus Fruit §r§a§l§o::§r§b chorus_fruit_popped
+item.cooked_beef.name=Cooked Beef §r§a§l§o::§r§b cooked_beef §r§a§l§o::§r§6 8888
+item.cooked_chicken.name=Cooked Chicken §r§a§l§o::§r§b cooked_chicken §r§a§l§o::§r§6 888
+item.cooked_porkchop.name=Cooked Porkchop §r§a§l§o::§r§b cooked_porkchop §r§a§l§o::§r§6 8888
+item.chicken.name=Raw Chicken §r§a§l§o::§r§b chicken §r§a§l§o::§r§6 8
+item.clay_ball.name=Clay §r§a§l§o::§r§b clay_ball
+item.clock.name=Clock §r§a§l§o::§r§b clock
+item.coal.name=Coal §r§a§l§o::§r§b coal §r§a§l§o::§r§d 0
+item.comparator.name=Redstone Comparator §r§a§l§o::§r§b comparator
+item.compass.name=Compass §r§a§l§o::§r§b compass
+item.cookie.name=Cookie §r§a§l§o::§r§b cookie §r§a§l§o::§r§6 8
+item.diamond.name=Diamond §r§a§l§o::§r§b diamond
+item.repeater.name=Redstone Repeater §r§a§l§o::§r§b repeater
+item.acacia_door.name=Acacia Door §r§a§l§o::§r§b acacia_door
+item.birch_door.name=Birch Door §r§a§l§o::§r§b birch_door
+item.dark_oak_door.name=Dark Oak Door §r§a§l§o::§r§b dark_oak_door
+item.iron_door.name=Iron Door §r§a§l§o::§r§b iron_door
+item.jungle_door.name=Jungle Door §r§a§l§o::§r§b jungle_door
+item.wooden_door.name=Oak Door §r§a§l§o::§r§b wooden_door
+item.spruce_door.name=Spruce Door §r§a§l§o::§r§b spruce_door
+item.dragon_breath.name=Dragon's Breath §r§a§l§o::§r§b dragon_breath
+item.dye.black.name=Ink Sac §r§a§l§o::§r§b dye §r§a§l§o::§r§d 0
+item.dye.blue.name=Lapis Lazuli §r§a§l§o::§r§b dye §r§a§l§o::§r§d 4
+item.dye.brown.name=Cocoa Beans §r§a§l§o::§r§b dye §r§a§l§o::§r§d 3
+item.dye.cyan.name=Cyan Dye §r§a§l§o::§r§b dye §r§a§l§o::§r§d 6
+item.dye.gray.name=Gray Dye §r§a§l§o::§r§b dye §r§a§l§o::§r§d 8
+item.dye.green.name=Cactus Green §r§a§l§o::§r§b dye §r§a§l§o::§r§d 2
+item.dye.lightBlue.name=Light Blue Dye §r§a§l§o::§r§b dye §r§a§l§o::§r§d 12
+item.dye.lime.name=Lime Dye §r§a§l§o::§r§b dye §r§a§l§o::§r§d 10
+item.dye.magenta.name=Magenta Dye §r§a§l§o::§r§b dye §r§a§l§o::§r§d 13
+item.dye.orange.name=Orange Dye §r§a§l§o::§r§b dye §r§a§l§o::§r§d 14
+item.dye.pink.name=Pink Dye §r§a§l§o::§r§b dye §r§a§l§o::§r§d 9
+item.dye.purple.name=Purple Dye §r§a§l§o::§r§b dye §r§a§l§o::§r§d 5
+item.dye.red.name=Rose Red §r§a§l§o::§r§b dye §r§a§l§o::§r§d 1
+item.dye.silver.name=Light Gray Dye §r§a§l§o::§r§b dye §r§a§l§o::§r§d 7
+item.dye.white.name=Bone Meal §r§a§l§o::§r§b dye §r§a§l§o::§r§d 15
+item.dye.yellow.name=Dandelion Yellow §r§a§l§o::§r§b dye §r§a§l§o::§r§d 11
+item.egg.name=Egg §r§a§l§o::§r§b egg
+item.elytra.name=Elytra §r§a§l§o::§r§b elytra
+item.emerald.name=Emerald §r§a§l§o::§r§b emerald
+item.emptyMap.name=Empty Map §r§a§l§o::§r§b emptymap §r§a§l§o::§r§d 0
+item.emptyLocatorMap.name=Empty Locator Map §r§a§l§o::§r§b emptymap §r§a§l§o::§r§d 2
+item.emptyPotion.name=Water Bottle §r§a§l§o::§r§b potion §r§a§l§o::§r§d 0
+item.enchanted_book.name=Enchanted Book §r§a§l§o::§r§b enchanted_book
+item.end_crystal.name=End Crystal §r§a§l§o::§r§b end_crystal
+tile.end_rod.name=End Rod §r§a§l§o::§r§b end_rod
+item.ender_eye.name=Eye of Ender §r§a§l§o::§r§b ender_eye
+item.ender_pearl.name=Ender Pearl §r§a§l§o::§r§b ender_pearl
+item.experience_bottle.name=Bottle o' Enchanting §r§a§l§o::§r§b experience_bottle
+item.feather.name=Feather §r§a§l§o::§r§b feather
+item.fermented_spider_eye.name=Fermented Spider Eye §r§a§l§o::§r§b fermented_spider_eye §r§a§l§o::§r§6 
+item.fireball.name=Fire Charge §r§a§l§o::§r§b fireball
+item.fireworks.name=Firework Rocket §r§a§l§o::§r§b fireworks
+item.clownfish.name=Tropical Fish §r§a§l§o::§r§b clownfish §r§a§l§o::§r§6 o
+item.cooked_fish.name=Cooked Fish §r§a§l§o::§r§b cooked_fish §r§a§l§o::§r§6 88o
+item.fish.name=Raw Fish §r§a§l§o::§r§b fish §r§a§l§o::§r§6 8
+item.pufferfish.name=Pufferfish §r§a§l§o::§r§b pufferfish §r§a§l§o::§r§6 o
+item.cooked_salmon.name=Cooked Salmon §r§a§l§o::§r§b cooked_salmon §r§a§l§o::§r§6 888
+item.salmon.name=Raw Salmon §r§a§l§o::§r§b salmon §r§a§l§o::§r§6 888
+item.fishing_rod.name=Fishing Rod §r§a§l§o::§r§b fishing_rod
+item.flint.name=Flint §r§a§l§o::§r§b flint
+item.flint_and_steel.name=Flint and Steel §r§a§l§o::§r§b flint_and_steel
+item.flower_pot.name=Flower Pot §r§a§l§o::§r§b flower_pot
+item.frame.name=Item Frame §r§a§l§o::§r§b frame
+item.ghast_tear.name=Ghast Tear §r§a§l§o::§r§b ghast_tear
+item.glass_bottle.name=Glass Bottle §r§a§l§o::§r§b glass_bottle
+item.gold_nugget.name=Gold Nugget §r§a§l§o::§r§b gold_nugget
+item.iron_nugget.name=Iron Nugget §r§a§l§o::§r§b iron_nugget
+item.diamond_axe.name=Diamond Axe §r§a§l§o::§r§b diamond_axe
+item.golden_axe.name=Golden Axe §r§a§l§o::§r§b golden_axe
+item.iron_axe.name=Iron Axe §r§a§l§o::§r§b iron_axe
+item.stone_axe.name=Stone Axe §r§a§l§o::§r§b stone_axe
+item.wooden_axe.name=Wooden Axe §r§a§l§o::§r§b wooden_axe
+item.chainmail_helmet.name=Chain Helmet §r§a§l§o::§r§b chainmail_helmet
+item.leather_helmet.name=Leather Cap §r§a§l§o::§r§b leather_helmet
+item.diamond_helmet.name=Diamond Helmet §r§a§l§o::§r§b diamond_helmet
+item.golden_helmet.name=Golden Helmet §r§a§l§o::§r§b golden_helmet
+item.iron_helmet.name=Iron Helmet §r§a§l§o::§r§b iron_helmet
+item.diamond_hoe.name=Diamond Hoe §r§a§l§o::§r§b diamond_hoe
+item.golden_hoe.name=Golden Hoe §r§a§l§o::§r§b golden_hoe
+item.iron_hoe.name=Iron Hoe §r§a§l§o::§r§b iron_hoe
+item.stone_hoe.name=Stone Hoe §r§a§l§o::§r§b stone_hoe
+item.wooden_hoe.name=Wooden Hoe §r§a§l§o::§r§b wooden_hoe
+item.horsearmordiamond.name=Diamond Horse Armor §r§a§l§o::§r§b horsearmordiamond
+item.horsearmorgold.name=Gold Horse Armor §r§a§l§o::§r§b horsearmorgold
+item.horsearmoriron.name=Iron Horse Armor §r§a§l§o::§r§b horsearmoriron
+item.horsearmorleather.name=Leather Horse Armor §r§a§l§o::§r§b horsearmorleather
+item.gold_ingot.name=Gold Ingot §r§a§l§o::§r§b gold_ingot
+item.iron_ingot.name=Iron Ingot §r§a§l§o::§r§b iron_ingot
+item.lead.name=Lead §r§a§l§o::§r§b lead
+item.leather.name=Leather §r§a§l§o::§r§b leather
+item.leaves.name=Leaves §r§a§l§o::§r§b leaves
+item.chainmail_leggings.name=Chain Leggings §r§a§l§o::§r§b chainmail_leggings
+item.leather_leggings.name=Leather Pants §r§a§l§o::§r§b leather_leggings
+item.diamond_leggings.name=Diamond Leggings §r§a§l§o::§r§b diamond_leggings
+item.golden_leggings.name=Golden Leggings §r§a§l§o::§r§b golden_leggings
+item.iron_leggings.name=Iron Leggings §r§a§l§o::§r§b iron_leggings
+item.nautilus_shell.name=Nautilus Shell §r§a§l§o::§r§b nautilus_shell
+item.heart_of_the_sea.name=Heart of the Sea §r§a§l§o::§r§b heart_of_the_sea
+item.magma_cream.name=Magma Cream §r§a§l§o::§r§b magma_cream
+item.map.name=Map §r§a§l§o::§r§b map §r§a§l§o::§r§d 0
+item.map.exploration.mansion.name=Woodland Explorer Map §r§a§l§o::§r§b map §r§a§l§o::§r§d 4
+item.map.exploration.monument.name=Ocean Explorer Map §r§a§l§o::§r§b map §r§a§l§o::§r§d 3
+item.map.exploration.treasure.name=Treasure Map §r§a§l§o::§r§b map §r§a§l§o::§r§d 5
+item.melon.name=Melon §r§a§l§o::§r§b melon
+item.milk.name=Milk §r§a§l§o::§r§b bucket §r§a§l§o::§r§d 1
+item.minecart.name=Minecart §r§a§l§o::§r§b minecart
+item.chest_minecart.name=Minecart with Chest §r§a§l§o::§r§b chest_minecart
+item.command_block_minecart.name=Minecart with Command Block §r§a§l§o::§r§b command_block_minecart
+item.minecartFurnace.name=Minecart with Furnace §r§a§l§o::§r§b furnace_minecart
+item.hopper_minecart.name=Minecart with Hopper §r§a§l§o::§r§b hopper_minecart
+item.tnt_minecart.name=Minecart with TNT §r§a§l§o::§r§b tnt_minecart
+item.spawn_egg.entity.chicken.name=Spawn Chicken §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 10
+item.spawn_egg.entity.cow.name=Spawn Cow §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 11
+item.spawn_egg.entity.cod.name=Spawn Cod §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 112
+item.spawn_egg.entity.pufferfish.name=Spawn Pufferfish §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 108
+item.spawn_egg.entity.salmon.name=Spawn Salmon §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 109
+item.spawn_egg.entity.tropicalfish.name=Spawn Tropical Fish §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 111
+item.spawn_egg.entity.pig.name=Spawn Pig §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 12
+item.spawn_egg.entity.sheep.name=Spawn Sheep §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 13
+item.spawn_egg.entity.npc.name=Spawn NPC §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 51
+item.spawn_egg.entity.wolf.name=Spawn Wolf §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 14
+item.spawn_egg.entity.villager.name=Spawn Villager §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 15
+item.spawn_egg.entity.vindicator.name=Spawn Vindicator §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 57
+item.spawn_egg.entity.mooshroom.name=Spawn Mooshroom §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 16
+item.spawn_egg.entity.squid.name=Spawn Squid §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 17
+item.spawn_egg.entity.rabbit.name=Spawn Rabbit §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 18
+item.spawn_egg.entity.bat.name=Spawn Bat §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 19
+item.spawn_egg.entity.ocelot.name=Spawn Ocelot §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 22
+item.spawn_egg.entity.parrot.name=Spawn Parrot §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 30
+item.spawn_egg.entity.horse.name=Spawn Horse §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 23
+item.spawn_egg.entity.llama.name=Spawn Llama §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 29
+item.spawn_egg.entity.polar_bear.name=Spawn Polar Bear §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 28
+item.spawn_egg.entity.donkey.name=Spawn Donkey §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 24
+item.spawn_egg.entity.mule.name=Spawn Mule §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 25
+item.spawn_egg.entity.skeleton_horse.name=Spawn Skeleton Horse §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 26
+item.spawn_egg.entity.zombie_horse.name=Spawn Zombie Horse §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 27
+item.spawn_egg.entity.zombie.name=Spawn Zombie §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 32
+item.spawn_egg.entity.drowned.name=Spawn Drowned §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 110
+item.spawn_egg.entity.creeper.name=Spawn Creeper §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 33
+item.spawn_egg.entity.skeleton.name=Spawn Skeleton §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 34
+item.spawn_egg.entity.spider.name=Spawn Spider §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 40
+item.spawn_egg.entity.zombie_pigman.name=Spawn Zombie Pigman §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 36
+item.spawn_egg.entity.slime.name=Spawn Slime §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 37
+item.spawn_egg.entity.enderman.name=Spawn Enderman §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 38
+item.spawn_egg.entity.silverfish.name=Spawn Silverfish §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 
+item.spawn_egg.entity.cave_spider.name=Spawn Cave Spider §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 39
+item.spawn_egg.entity.ghast.name=Spawn Ghast §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 41
+item.spawn_egg.entity.magma_cube.name=Spawn Magma Cube §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 42
+item.spawn_egg.entity.blaze.name=Spawn Blaze §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 43
+item.spawn_egg.entity.zombie_villager.name=Spawn Zombie Villager §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 44
+item.spawn_egg.entity.witch.name=Spawn Witch §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 45
+item.spawn_egg.entity.stray.name=Spawn Stray §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 46
+item.spawn_egg.entity.husk.name=Spawn Husk §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 47
+item.spawn_egg.entity.wither_skeleton.name=Spawn Wither Skeleton §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 48
+item.spawn_egg.entity.guardian.name=Spawn Guardian §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 49
+item.spawn_egg.entity.elder_guardian.name=Spawn Elder Guardian §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 50
+item.spawn_egg.entity.shulker.name=Spawn Shulker §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 54
+item.spawn_egg.entity.endermite.name=Spawn Endermite §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 55
+item.spawn_egg.entity.evocation_illager.name=Spawn Evoker §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 104
+item.spawn_egg.entity.vex.name=Spawn Vex §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 105
+item.spawn_egg.entity.turtle.name=Spawn Sea Turtle §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 74
+item.spawn_egg.entity.dolphin.name=Spawn Dolphin §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 31
+item.spawn_egg.entity.phantom.name=Spawn Phantom §r§a§l§o::§r§b spawn_egg §r§a§l§o::§r§d 58
+item.trident.name=Trident §r§a§l§o::§r§b trident
+item.mushroom_stew.name=Mushroom Stew §r§a§l§o::§r§b mushroom_stew §r§a§l§o::§r§6 888
+item.muttonCooked.name=Cooked Mutton §r§a§l§o::§r§b muttoncooked §r§a§l§o::§r§6 888
+item.muttonRaw.name=Raw Mutton §r§a§l§o::§r§b muttonraw §r§a§l§o::§r§6 8
+item.name_tag.name=Name Tag §r§a§l§o::§r§b name_tag
+item.netherbrick.name=Nether Brick §r§a§l§o::§r§b netherbrick
+item.quartz.name=Nether Quartz §r§a§l§o::§r§b quartz
+item.nether_wart.name=Nether Wart §r§a§l§o::§r§b nether_wart
+item.netherStar.name=Nether Star §r§a§l§o::§r§b netherstar
+item.painting.name=Painting §r§a§l§o::§r§b painting
+item.paper.name=Paper §r§a§l§o::§r§b paper
+item.diamond_pickaxe.name=Diamond Pickaxe §r§a§l§o::§r§b diamond_pickaxe
+item.golden_pickaxe.name=Golden Pickaxe §r§a§l§o::§r§b golden_pickaxe
+item.iron_pickaxe.name=Iron Pickaxe §r§a§l§o::§r§b iron_pickaxe
+item.stone_pickaxe.name=Stone Pickaxe §r§a§l§o::§r§b stone_pickaxe
+item.wooden_pickaxe.name=Wooden Pickaxe §r§a§l§o::§r§b wooden_pickaxe
+item.porkchop_cooked.name=Cooked Porkchop §r§a§l§o::§r§b cooked_porkchop §r§a§l§o::§r§6 8888
+item.porkchop.name=Raw Porkchop §r§a§l§o::§r§b porkchop §r§a§l§o::§r§6 8o
+item.potato.name=Potato §r§a§l§o::§r§b potato §r§a§l§o::§r§6 o
+item.baked_potato.name=Baked Potato §r§a§l§o::§r§b baked_potato §r§a§l§o::§r§6 88o
+item.poisonous_potato.name=Poisonous Potato §r§a§l§o::§r§b poisonous_potato §r§a§l§o::§r§6 8
+item.potion.name=Potion §r§a§l§o::§r§b potion §r§a§l§o::§r§d 0-39
+item.prismarine_crystals.name=Prismarine Crystals §r§a§l§o::§r§b prismarine_crystals
+item.prismarine_shard.name=Prismarine Shard §r§a§l§o::§r§b prismarine_shard
+item.pumpkin_pie.name=Pumpkin Pie §r§a§l§o::§r§b pumpkin_pie §r§a§l§o::§r§6 8888
+item.cooked_rabbit.name=Cooked Rabbit §r§a§l§o::§r§b cooked_rabbit §r§a§l§o::§r§6 88o
+item.rabbit_foot.name=Rabbit's Foot §r§a§l§o::§r§b rabbit_foot
+item.rabbit_hide.name=Rabbit Hide §r§a§l§o::§r§b rabbit_hide
+item.rabbit.name=Raw Rabbit §r§a§l§o::§r§b rabbit §r§a§l§o::§r§6 8o
+item.rabbit_stew.name=Rabbit Stew §r§a§l§o::§r§b rabbit_stew §r§a§l§o::§r§6 88888
+item.record_11.desc=C418 - 11 §r§a§l§o::§r§b record_11
+item.record_13.desc=C418 - 13 §r§a§l§o::§r§b record_13
+item.record_blocks.desc=C418 - blocks §r§a§l§o::§r§b record_blocks
+item.record_cat.desc=C418 - cat §r§a§l§o::§r§b record_cat
+item.record_chirp.desc=C418 - chirp §r§a§l§o::§r§b record_chirp
+item.record_far.desc=C418 - far §r§a§l§o::§r§b record_far
+item.record_mall.desc=C418 - mall §r§a§l§o::§r§b record_mall
+item.record_mellohi.desc=C418 - mellohi §r§a§l§o::§r§b record_mellohi
+item.record_stal.desc=C418 - stal §r§a§l§o::§r§b record_stal
+item.record_strad.desc=C418 - strad §r§a§l§o::§r§b record_strad
+item.record_wait.desc=C418 - wait §r§a§l§o::§r§b record_wait
+item.record_ward.desc=C418 - ward §r§a§l§o::§r§b record_ward
+item.redstone.name=Redstone §r§a§l§o::§r§b redstone
+item.reeds.name=Sugar Canes §r§a§l§o::§r§b reeds
+item.kelp.name=Kelp §r§a§l§o::§r§b kelp
+item.dried_kelp.name=Dried Kelp §r§a§l§o::§r§b dried_kelp §r§a§l§o::§r§6 o
+item.rotten_flesh.name=Rotten Flesh §r§a§l§o::§r§b rotten_flesh §r§a§l§o::§r§6 88
+item.saddle.name=Saddle §r§a§l§o::§r§b saddle
+item.wheat_seeds.name=Seeds §r§a§l§o::§r§b wheat_seeds
+item.beetroot_seeds.name=Beetroot Seeds §r§a§l§o::§r§b beetroot_seeds
+item.melon_seeds.name=Melon Seeds §r§a§l§o::§r§b melon_seeds
+item.pumpkin_seeds.name=Pumpkin Seeds §r§a§l§o::§r§b pumpkin_seeds
+item.shears.name=Shears §r§a§l§o::§r§b shears
+item.diamond_shovel.name=Diamond Shovel §r§a§l§o::§r§b diamond_shovel
+item.golden_shovel.name=Golden Shovel §r§a§l§o::§r§b golden_shovel
+item.iron_shovel.name=Iron Shovel §r§a§l§o::§r§b iron_shovel
+item.stone_shovel.name=Stone Shovel §r§a§l§o::§r§b stone_shovel
+item.wooden_shovel.name=Wooden Shovel §r§a§l§o::§r§b wooden_shovel
+item.sign.name=Sign §r§a§l§o::§r§b sign
+item.skull.creeper.name=Creeper Head §r§a§l§o::§r§b skull §r§a§l§o::§r§d 4
+item.skull.dragon.name=Dragon Head §r§a§l§o::§r§b  skull §r§a§l§o::§r§d 5
+item.skull.player.name=%s's Head §r§a§l§o::§r§b  skull §r§a§l§o::§r§d 3
+item.skull.skeleton.name=Skeleton Skull §r§a§l§o::§r§b  skull §r§a§l§o::§r§d 0
+item.skull.wither.name=Wither Skeleton Skull §r§a§l§o::§r§b  skull §r§a§l§o::§r§d 1
+item.skull.zombie.name=Zombie Head §r§a§l§o::§r§b  skull §r§a§l§o::§r§d 2
+item.slime_ball.name=Slimeball §r§a§l§o::§r§b slime_ball
+item.snowball.name=Snowball §r§a§l§o::§r§b snowball
+item.speckled_melon.name=Glistering Melon §r§a§l§o::§r§b speckled_melon
+item.spider_eye.name=Spider Eye §r§a§l§o::§r§b spider_eye 8
+item.stick.name=Stick §r§a§l§o::§r§b stick
+item.string.name=String §r§a§l§o::§r§b string
+item.sugar.name=Sugar §r§a§l§o::§r§b sugar
+item.gunpowder.name=Gunpowder §r§a§l§o::§r§b gunpowder
+item.diamond_sword.name=Diamond Sword §r§a§l§o::§r§b diamond_sword
+item.golden_sword.name=Golden Sword §r§a§l§o::§r§b golden_sword
+item.iron_sword.name=Iron Sword §r§a§l§o::§r§b iron_sword
+item.stone_sword.name=Stone Sword §r§a§l§o::§r§b stone_sword
+item.wooden_sword.name=Wooden Sword §r§a§l§o::§r§b wooden_sword
+item.wheat.name=Wheat §r§a§l§o::§r§b wheat
+item.writable_book.name=Book & Quill §r§a§l§o::§r§b writable_book
+item.glowstone_dust.name=Glowstone Dust §r§a§l§o::§r§b glowstone_dust
+item.shulker_shell.name=Shulker Shell §r§a§l§o::§r§b shulker_shell
+item.totem.name=Totem of Undying §r§a§l§o::§r§b totem
+item.turtle_helmet.name=Turtle Shell §r§a§l§o::§r§b turtle_helmet
+item.turtle_shell_piece.name=Scute §r§a§l§o::§r§b turtle_shell_piece
+item.phantom_membrane.name=Phantom Membrane §r§a§l§o::§r§b phantom_membrane
+
+tile.acaciaFence.name=Acacia Fence §r§a§l§o::§r§b fence §r§a§l§o::§r§d 4
+tile.acacia_fence_gate.name=Acacia Fence Gate §r§a§l§o::§r§b acacia_fence_gate
+
+tile.activator_rail.name=Activator Rail §r§a§l§o::§r§b activator_rail
+
+tile.air.name=Air §r§a§l§o::§r§b air
+
+tile.anvil.intact.name=Anvil §r§a§l§o::§r§b anvil §r§a§l§o::§r§d 0-3
+tile.anvil.name=Anvil §r§a§l§o::§r§b anvil §r§a§l§o::§r§d 0-3
+tile.anvil.slightlyDamaged.name=Slightly Damaged Anvil §r§a§l§o::§r§b anvil §r§a§l§o::§r§d 4-7
+tile.anvil.veryDamaged.name=Very Damaged Anvil §r§a§l§o::§r§b anvil §r§a§l§o::§r§d 8-11
+
+tile.barrier.name=Barrier §r§a§l§o::§r§b barrier
+
+tile.beacon.name=Beacon §r§a§l§o::§r§b beacon
+
+tile.bed.name=Bed §r§a§l§o::§r§b bed
+
+tile.bedrock.name=Bedrock §r§a§l§o::§r§b bedrock
+
+tile.conduit.name=Conduit §r§a§l§o::§r§b conduit 
+
+tile.beetroot.name=Beetroot §r§a§l§o::§r§b beetroot
+
+tile.birchFence.name=Birch Fence §r§a§l§o::§r§b fence §r§a§l§o::§r§d 2
+tile.birch_fence_gate.name=Birch Fence Gate §r§a§l§o::§r§b birch_fence_gate
+
+tile.bone_block.name=Bone Block §r§a§l§o::§r§b bone_block
+tile.coal_block.name=Block of Coal §r§a§l§o::§r§b coal_block
+tile.diamond_block.name=Block of Diamond §r§a§l§o::§r§b diamond_block
+tile.emerald_block.name=Block of Emerald §r§a§l§o::§r§b emerald_block
+tile.gold_block.name=Block of Gold §r§a§l§o::§r§b gold_block
+tile.iron_block.name=Block of Iron §r§a§l§o::§r§b iron_block
+tile.lapis_block.name=Lapis Lazuli Block §r§a§l§o::§r§b lapi_block
+tile.redstone_block.name=Block of Redstone §r§a§l§o::§r§b redstone_block
+
+tile.bookshelf.name=Bookshelf §r§a§l§o::§r§b bookshelf
+
+tile.brick_block.name=Brick Block §r§a§l§o::§r§b brick_block
+
+tile.brown_mushroom.name=Mushroom §r§a§l§o::§r§b brown_mushroom
+tile.brown_mushroom_block.name=Mushroom §r§a§l§o::§r§b brown_mushroom_block
+
+tile.wooden_button.name=Oak Button §r§a§l§o::§r§b wooden_button
+tile.acacia_button.name=Acacia Button §r§a§l§o::§r§b acacia_button
+tile.birch_button.name=Birch Button §r§a§l§o::§r§b birch_button
+tile.dark_oak_button.name=Dark Oak Button §r§a§l§o::§r§b dark_oak_button
+tile.jungle_button.name=Jungle Button §r§a§l§o::§r§b jungle_button
+tile.spruce_button.name=Spruce Button §r§a§l§o::§r§b spruce_button
+tile.stone_button.name=Stone Button §r§a§l§o::§r§b stone_button
+
+tile.cactus.name=Cactus §r§a§l§o::§r§b cactus
+
+tile.cake.name=Cake §r§a§l§o::§r§b cake
+
+tile.dried_kelp_block.name=Dried Kelp Block §r§a§l§o::§r§b dried_kelp_block
+
+tile.carrot.name=Carrots §r§a§l§o::§r§b carrot
+
+tile.carved_pumpkin.name=Carved Pumpkin §r§a§l§o::§r§b carved_pumpkin
+
+tile.cauldron.name=Cauldron §r§a§l§o::§r§b cauldron
+
+tile.chest.name=Chest §r§a§l§o::§r§b chest
+tile.ender_chest.name=Ender Chest §r§a§l§o::§r§b ender_chest
+tile.trapped_chest.name=Trapped Chest §r§a§l§o::§r§b trapped_chest
+
+tile.shulkerBoxWhite.name=White Shulker Box §r§a§l§o::§r§b shulker_box §r§a§l§o::§r§d 0
+tile.shulkerBoxOrange.name=Orange Shulker Box §r§a§l§o::§r§b shulker_box §r§a§l§o::§r§d 1
+tile.shulkerBoxMagenta.name=Magenta Shulker Box §r§a§l§o::§r§b shulker_box §r§a§l§o::§r§d 2
+tile.shulkerBoxLightBlue.name=Light Blue Shulker Box §r§a§l§o::§r§b shulker_box §r§a§l§o::§r§d 3
+tile.shulkerBoxYellow.name=Yellow Shulker Box §r§a§l§o::§r§b shulker_box §r§a§l§o::§r§d 4
+tile.shulkerBoxLime.name=Lime Shulker Box §r§a§l§o::§r§b shulker_box §r§a§l§o::§r§d 5
+tile.shulkerBoxPink.name=Pink Shulker Box §r§a§l§o::§r§b shulker_box §r§a§l§o::§r§d 6
+tile.shulkerBoxGray.name=Gray Shulker Box §r§a§l§o::§r§b shulker_box §r§a§l§o::§r§d 7
+tile.shulkerBoxSilver.name=Light Gray Shulker Box §r§a§l§o::§r§b shulker_box §r§a§l§o::§r§d 8
+tile.shulkerBoxCyan.name=Cyan Shulker Box §r§a§l§o::§r§b shulker_box §r§a§l§o::§r§d 9
+tile.shulkerBoxPurple.name=Purple Shulker Box §r§a§l§o::§r§b shulker_box §r§a§l§o::§r§d 10
+tile.shulkerBoxBlue.name=Blue Shulker Box §r§a§l§o::§r§b shulker_box §r§a§l§o::§r§d 11
+tile.shulkerBoxBrown.name=Brown Shulker Box §r§a§l§o::§r§b shulker_box §r§a§l§o::§r§d 12
+tile.shulkerBoxGreen.name=Green Shulker Box §r§a§l§o::§r§b shulker_box §r§a§l§o::§r§d 13
+tile.shulkerBoxRed.name=Red Shulker Box §r§a§l§o::§r§b shulker_box §r§a§l§o::§r§d 14
+tile.shulkerBoxBlack.name=Black Shulker Box §r§a§l§o::§r§b shulker_box §r§a§l§o::§r§d 15
+tile.shulkerBox.name=Shulker Box §r§a§l§o::§r§b undyed_shulker_box
+
+tile.chorus_flower.name=Chorus Flower §r§a§l§o::§r§b chorus_flower
+tile.chorus_plant.name=Chorus Plant §r§a§l§o::§r§b chorus_plant
+
+tile.stained_glass.white.name=White Stained Glass §r§a§l§o::§r§b staind_glass §r§a§l§o::§r§d 0
+tile.stained_glass.silver.name=Light Gray Stained Glass §r§a§l§o::§r§b stained_glass §r§a§l§o::§r§d 8
+tile.stained_glass.gray.name=Gray Stained Glass §r§a§l§o::§r§b stained_glass §r§a§l§o::§r§d 7
+tile.stained_glass.black.name=Black Stained Glass §r§a§l§o::§r§b stained_glass §r§a§l§o::§r§d 15
+tile.stained_glass.brown.name=Brown Stained Glass §r§a§l§o::§r§b stained_glass §r§a§l§o::§r§d 12
+tile.stained_glass.red.name=Red Stained Glass §r§a§l§o::§r§b stained_glass §r§a§l§o::§r§d 14
+tile.stained_glass.orange.name=Orange Stained Glass §r§a§l§o::§r§b stained_glass §r§a§l§o::§r§d 1
+tile.stained_glass.yellow.name=Yellow Stained Glass §r§a§l§o::§r§b stained_glass §r§a§l§o::§r§d 4
+tile.stained_glass.lime.name=Lime Stained Glass §r§a§l§o::§r§b stained_glass §r§a§l§o::§r§d 5
+tile.stained_glass.green.name=Green Stained Glass §r§a§l§o::§r§b stained_glass §r§a§l§o::§r§d 13
+tile.stained_glass.cyan.name=Cyan Stained Glass §r§a§l§o::§r§b stained_glass §r§a§l§o::§r§d 9
+tile.stained_glass.light_blue.name=Light Blue Stained Glass §r§a§l§o::§r§b stained_glass §r§a§l§o::§r§d 3
+tile.stained_glass.blue.name=Blue Stained Glass §r§a§l§o::§r§b stained_glass §r§a§l§o::§r§d 11
+tile.stained_glass.purple.name=Purple Stained Glass §r§a§l§o::§r§b stained_glass §r§a§l§o::§r§d 10
+tile.stained_glass.magenta.name=Magenta Stained Glass §r§a§l§o::§r§b stained_glass §r§a§l§o::§r§d 2
+tile.stained_glass.pink.name=Pink Stained Glass §r§a§l§o::§r§b stained_glass §r§a§l§o::§r§d 6
+
+tile.stained_glass_pane.white.name=White Stained Glass Pane §r§a§l§o::§r§b staind_glass_pane §r§a§l§o::§r§d 0
+tile.stained_glass_pane.silver.name=Light Gray Stained Glass Pane §r§a§l§o::§r§b staind_glass_pane §r§a§l§o::§r§d 8
+tile.stained_glass_pane.gray.name=Gray Stained Glass Pane §r§a§l§o::§r§b staind_glass_pane §r§a§l§o::§r§d 7
+tile.stained_glass_pane.black.name=Black Stained Glass Pane §r§a§l§o::§r§b staind_glass_pane §r§a§l§o::§r§d 15
+tile.stained_glass_pane.brown.name=Brown Stained Glass Pane §r§a§l§o::§r§b staind_glass_pane §r§a§l§o::§r§d 12
+tile.stained_glass_pane.red.name=Red Stained Glass Pane §r§a§l§o::§r§b staind_glass_pane §r§a§l§o::§r§d 14
+tile.stained_glass_pane.orange.name=Orange Stained Glass Pane §r§a§l§o::§r§b staind_glass_pane §r§a§l§o::§r§d 1
+tile.stained_glass_pane.yellow.name=Yellow Stained Glass Pane §r§a§l§o::§r§b staind_glass_pane §r§a§l§o::§r§d 4
+tile.stained_glass_pane.lime.name=Lime Stained Glass Pane §r§a§l§o::§r§b staind_glass_pane §r§a§l§o::§r§d 5
+tile.stained_glass_pane.green.name=Green Stained Glass Pane §r§a§l§o::§r§b staind_glass_pane §r§a§l§o::§r§d 13
+tile.stained_glass_pane.cyan.name=Cyan Stained Glass Pane §r§a§l§o::§r§b staind_glass_pane §r§a§l§o::§r§d 9
+tile.stained_glass_pane.light_blue.name=Light Blue Stained Glass Pane §r§a§l§o::§r§b staind_glass_pane §r§a§l§o::§r§d 3
+tile.stained_glass_pane.blue.name=Blue Stained Glass Pane §r§a§l§o::§r§b staind_glass_pane §r§a§l§o::§r§d 11
+tile.stained_glass_pane.purple.name=Purple Stained Glass Pane §r§a§l§o::§r§b staind_glass_pane §r§a§l§o::§r§d 10
+tile.stained_glass_pane.magenta.name=Magenta Stained Glass Pane §r§a§l§o::§r§b staind_glass_pane §r§a§l§o::§r§d 2
+tile.stained_glass_pane.pink.name=Pink Stained Glass Pane §r§a§l§o::§r§b staind_glass_pane §r§a§l§o::§r§d 6
+
+tile.clay.name=Clay Block §r§a§l§o::§r§b clay
+tile.hardened_clay.name=Terracotta §r§a§l§o::§r§b hardened_clay
+
+tile.stained_hardened_clay.black.name=Black Terracotta §r§a§l§o::§r§b stained_hardened_clay §r§a§l§o::§r§d 15
+tile.stained_hardened_clay.blue.name=Blue Terracotta §r§a§l§o::§r§b stained_hardened_clay §r§a§l§o::§r§d 11
+tile.stained_hardened_clay.brown.name=Brown Terracotta §r§a§l§o::§r§b stained_hardened_clay §r§a§l§o::§r§d 12
+tile.stained_hardened_clay.cyan.name=Cyan Terracotta §r§a§l§o::§r§b stained_hardened_clay §r§a§l§o::§r§d 9
+tile.stained_hardened_clay.gray.name=Gray Terracotta §r§a§l§o::§r§b stained_hardened_clay §r§a§l§o::§r§d 7
+tile.stained_hardened_clay.green.name=Green Terracotta §r§a§l§o::§r§b stained_hardened_clay §r§a§l§o::§r§d 13
+tile.stained_hardened_clay.lightBlue.name=Light Blue Terracotta §r§a§l§o::§r§b stained_hardened_clay §r§a§l§o::§r§d 3
+tile.stained_hardened_clay.lime.name=Lime Terracotta §r§a§l§o::§r§b stained_hardened_clay §r§a§l§o::§r§d 5
+tile.stained_hardened_clay.magenta.name=Magenta Terracotta §r§a§l§o::§r§b stained_hardened_clay §r§a§l§o::§r§d 2
+tile.stained_hardened_clay.orange.name=Orange Terracotta §r§a§l§o::§r§b stained_hardened_clay §r§a§l§o::§r§d 1
+tile.stained_hardened_clay.pink.name=Pink Terracotta §r§a§l§o::§r§b stained_hardened_clay §r§a§l§o::§r§d 6
+tile.stained_hardened_clay.purple.name=Purple Terracotta §r§a§l§o::§r§b stained_hardened_clay §r§a§l§o::§r§d 10
+tile.stained_hardened_clay.red.name=Red Terracotta §r§a§l§o::§r§b stained_hardened_clay §r§a§l§o::§r§d 14
+tile.stained_hardened_clay.silver.name=Light Gray Terracotta §r§a§l§o::§r§b stained_hardened_clay §r§a§l§o::§r§d 8
+tile.stained_hardened_clay.white.name=White Terracotta §r§a§l§o::§r§b stained_hardened_clay §r§a§l§o::§r§d 0
+tile.stained_hardened_clay.yellow.name=Yellow Terracotta §r§a§l§o::§r§b stained_hardened_clay §r§a§l§o::§r§d 4
+
+tile.wool.black.name=Black Wool §r§a§l§o::§r§b wool §r§a§l§o::§r§d 15
+tile.wool.blue.name=Blue Wool §r§a§l§o::§r§b wool §r§a§l§o::§r§d 11
+tile.wool.brown.name=Brown Wool §r§a§l§o::§r§b wool §r§a§l§o::§r§d 12
+tile.wool.cyan.name=Cyan Wool §r§a§l§o::§r§b wool §r§a§l§o::§r§d 9
+tile.wool.gray.name=Gray Wool §r§a§l§o::§r§b wool §r§a§l§o::§r§d 7
+tile.wool.green.name=Green Wool §r§a§l§o::§r§b wool §r§a§l§o::§r§d 13
+tile.wool.lightBlue.name=Light Blue Wool §r§a§l§o::§r§b wool §r§a§l§o::§r§d 3
+tile.wool.lime.name=Lime Wool §r§a§l§o::§r§b wool §r§a§l§o::§r§d 5
+tile.wool.magenta.name=Magenta Wool §r§a§l§o::§r§b wool §r§a§l§o::§r§d 2
+tile.wool.orange.name=Orange Wool §r§a§l§o::§r§b wool §r§a§l§o::§r§d 1
+tile.wool.pink.name=Pink Wool §r§a§l§o::§r§b wool §r§a§l§o::§r§d 6
+tile.wool.purple.name=Purple Wool §r§a§l§o::§r§b wool §r§a§l§o::§r§d 10
+tile.wool.red.name=Red Wool §r§a§l§o::§r§b wool §r§a§l§o::§r§d 14
+tile.wool.silver.name=Light Gray Wool §r§a§l§o::§r§b wool §r§a§l§o::§r§d 8
+tile.wool.white.name=White Wool §r§a§l§o::§r§b wool §r§a§l§o::§r§d 0
+tile.wool.yellow.name=Yellow Wool §r§a§l§o::§r§b wool §r§a§l§o::§r§d 4
+
+tile.cobblestone_wall.mossy.name=Mossy Cobblestone Wall §r§a§l§o::§r§b cobblestone_wall §r§a§l§o::§r§d 0
+tile.cobblestone_wall.normal.name=Cobblestone Wall §r§a§l§o::§r§b cobblestone_wall §r§a§l§o::§r§d 1
+
+tile.cocoa.name=Cocoa §r§a§l§o::§r§b cocoa §r§a§l§o::§r§d 0-2
+
+tile.command_block.name=Command Block §r§a§l§o::§r§b command_block
+tile.repeating_command_block.name=Repeating Command Block §r§a§l§o::§r§b repeating_command_block
+tile.chain_command_block.name=Chain Command Block §r§a§l§o::§r§b chain_command_block
+
+tile.wheat.name=Crops §r§a§l§o::§r§b wheat
+
+tile.darkOakFence.name=Dark Oak Fence §r§a§l§o::§r§b fence §r§a§l§o::§r§d 5
+tile.dark_oak_fence_gate.name=Dark Oak Fence Gate §r§a§l§o::§r§b dark_oak_fence_gate
+
+tile.daylight_detector.name=Daylight Sensor §r§a§l§o::§r§b daylight_detector §r§a§l§o::§r§d 0-15 (redstone power level)
+
+tile.deadbush.name=Dead Bush §r§a§l§o::§r§b deadbush
+
+tile.detector_rail.name=Detector Rail §r§a§l§o::§r§b detector_rail
+
+tile.dirt.coarse.name=Coarse Dirt §r§a§l§o::§r§b dirt §r§a§l§o::§r§d 1
+tile.dirt.default.name=Dirt §r§a§l§o::§r§b dirt §r§a§l§o::§r§d 0
+tile.dirt.name=Dirt §r§a§l§o::§r§b dirt §r§a§l§o::§r§d 0
+tile.podzol.name=Podzol §r§a§l§o::§r§b podzol
+
+tile.purpur_block.default.name=Purpur Block §r§a§l§o::§r§b purpur_block §r§a§l§o::§r§d 0
+tile.purpur_block.lines.name=Purpur Pillar §r§a§l§o::§r§b purpur_block §r§a§l§o::§r§d 6, 10
+tile.purpur_block.chiseled.name=Chiseled Purpur §r§a§l§o::§r§b purpur_block §r§a§l§o::§r§d 6, 10
+
+tile.dispenser.name=Dispenser §r§a§l§o::§r§b dispenser
+
+tile.iron_door.name=Iron Door §r§a§l§o::§r§b iron_door
+tile.doorWood.name=Wooden Door §r§a§l§o::§r§b wooden_door
+
+tile.double_plant.fern.name=Large Fern §r§a§l§o::§r§b double_plant §r§a§l§o::§r§d 3
+tile.double_plant.grass.name=Double Tallgrass §r§a§l§o::§r§b double_plant §r§a§l§o::§r§d 2
+tile.double_plant.paeonia.name=Peony §r§a§l§o::§r§b double_plant §r§a§l§o::§r§d 5
+tile.double_plant.rose.name=Rose Bush §r§a§l§o::§r§b double_plant §r§a§l§o::§r§d 4
+tile.double_plant.sunflower.name=Sunflower §r§a§l§o::§r§b double_plant §r§a§l§o::§r§d 0
+tile.double_plant.syringa.name=Lilac §r§a§l§o::§r§b double_plant §r§a§l§o::§r§d 1
+
+tile.dragon_egg.name=Dragon Egg §r§a§l§o::§r§b dragon_egg
+
+tile.dropper.name=Dropper §r§a§l§o::§r§b dropper
+
+tile.enchanting_table.name=Enchantment Table §r§a§l§o::§r§b enchanting_table
+
+tile.enderChest.name=Ender Chest §r§a§l§o::§r§b ender_chest
+tile.end_portal_frame.name=End Portal §r§a§l§o::§r§b end_portal_frame
+
+tile.farmland.name=Farmland §r§a§l§o::§r§b farmland
+
+tile.fence.name=Oak Fence §r§a§l§o::§r§b fence §r§a§l§o::§r§d 0
+tile.fence_gate.name=Oak Fence Gate §r§a§l§o::§r§b fence_gate
+
+tile.iron_bars.name=Iron Bars §r§a§l§o::§r§b iron_bars
+
+tile.fire.name=Fire §r§a§l§o::§r§b fire
+
+tile.yellow_flower.dandelion.name=Dandelion §r§a§l§o::§r§b yellow_flower §r§a§l§o::§r§d 0
+
+tile.red_flower.allium.name=Allium §r§a§l§o::§r§b red_flower §r§a§l§o::§r§d 2
+tile.red_flower.blueOrchid.name=Blue Orchid §r§a§l§o::§r§b red_flower §r§a§l§o::§r§d 1
+tile.red_flower.houstonia.name=Azure Bluet §r§a§l§o::§r§b red_flower §r§a§l§o::§r§d 3
+tile.red_flower.oxeyeDaisy.name=Oxeye Daisy §r§a§l§o::§r§b red_flower §r§a§l§o::§r§d 8
+tile.red_flower.poppy.name=Poppy §r§a§l§o::§r§b red_flower §r§a§l§o::§r§d 00
+tile.red_flower.tulipOrange.name=Orange Tulip §r§a§l§o::§r§b red_flower §r§a§l§o::§r§d 5
+tile.red_flower.tulipPink.name=Pink Tulip §r§a§l§o::§r§b red_flower §r§a§l§o::§r§d 7
+tile.red_flower.tulipRed.name=Red Tulip §r§a§l§o::§r§b red_flower §r§a§l§o::§r§d 4
+tile.red_flower.tulipWhite.name=White Tulip §r§a§l§o::§r§b red_flower §r§a§l§o::§r§d 6
+
+tile.furnace.name=Furnace §r§a§l§o::§r§b furnace
+
+tile.glass.name=Glass §r§a§l§o::§r§b glass
+
+tile.golden_rail.name=Powered Rail §r§a§l§o::§r§b golden_rail
+
+tile.grass.name=Grass Block §r§a§l§o::§r§b grass
+tile.grass_path.name=Grass Path §r§a§l§o::§r§b grass_path
+
+tile.gravel.name=Gravel §r§a§l§o::§r§b gravel
+
+tile.hay_block.name=Hay Bale §r§a§l§o::§r§b hay_block
+
+tile.netherrack.name=Netherrack §r§a§l§o::§r§b netherrackac
+
+tile.soul_sand.name=Soul Sand §r§a§l§o::§r§b soul_sand
+
+tile.hopper.name=Hopper §r§a§l§o::§r§b hopper
+
+tile.ice.name=Ice §r§a§l§o::§r§b ice
+tile.packed_ice.name=Packed Ice §r§a§l§o::§r§b packed_ice
+tile.blue_ice.name=Blue Ice §r§a§l§o::§r§b blue_ice
+
+tile.iron_trapdoor.name=Iron Trapdoor §r§a§l§o::§r§b iron_trapdoor
+
+tile.jukebox.name=Jukebox §r§a§l§o::§r§b jukebox
+
+tile.jungleFence.name=Jungle Fence §r§a§l§o::§r§b fence §r§a§l§o::§r§d 3
+tile.jungle_fence_gate.name=Jungle Fence Gate §r§a§l§o::§r§b jungle_fence_gate
+
+tile.ladder.name=Ladder §r§a§l§o::§r§b ladder
+
+tile.flowing_lava.name=Lava §r§a§l§o::§r§b flowing_lava
+
+tile.leaves.acacia.name=Acacia Leaves §r§a§l§o::§r§b leaves2 §r§a§l§o::§r§d 0, 4 (no decay), 8 (check decay), 12 (no decay, check decay)
+tile.leaves2.acacia.name=Acacia Leaves §r§a§l§o::§r§b leaves2 §r§a§l§o::§r§d 0, 4 (no decay), 8 (check decay), 12 (no decay, check decay)
+tile.leaves.big_oak.name=Dark Oak Leaves §r§a§l§o::§r§b leaves2 §r§a§l§o::§r§d 1, 5 (no decay), 9 (check decay), 13 (no decay, check decay)
+tile.leaves2.big_oak.name=Dark Oak Leaves §r§a§l§o::§r§b leaves2 §r§a§l§o::§r§d 1, 5 (no decay), 9 (check decay), 13 (no decay, check decay)
+tile.leaves.birch.name=Birch Leaves §r§a§l§o::§r§b leaves §r§a§l§o::§r§d 2, 6 (no decay), 10 (check decay), 14 (no decay, check decay)
+tile.leaves.jungle.name=Jungle Leaves §r§a§l§o::§r§b leaves §r§a§l§o::§r§d 3, 7 (no decay), 11 (check decay), 15 (no decay, check decay)
+tile.leaves.oak.name=Oak Leaves §r§a§l§o::§r§b leaves §r§a§l§o::§r§d 0, 4 (no decay), 8 (check decay), 12 (no decay, check decay)
+tile.leaves.spruce.name=Spruce Leaves §r§a§l§o::§r§b leaves §r§a§l§o::§r§d 1, 5 (no decay), 9 (check decay), 13 (no decay, check decay)
+
+tile.lever.name=Lever §r§a§l§o::§r§b lever
+
+tile.glowstone.name=Glowstone §r§a§l§o::§r§b glowstone
+
+tile.lit_pumpkin.name=Jack o'Lantern §r§a§l§o::§r§b lit_pumpkin
+
+tile.log.acacia.name=Acacia Wood §r§a§l§o::§r§b log2 §r§a§l§o::§r§d 0 (UP/DOWN), 4 (EAST/WEST), 8 (NORTH/SOUTH),12 (BARK)
+tile.log.big_oak.name=Dark Oak Wood §r§a§l§o::§r§b log2 §r§a§l§o::§r§d 1 (UP/DOWN), 5 (EAST/WEST), 6 (NORTH/SOUTH),17 (BARK)
+tile.log.birch.name=Birch Wood §r§a§l§o::§r§b log §r§a§l§o::§r§d 2 (UP/DOWN), 6 (EAST/WEST), 10 (NORTH/SOUTH),14 (BARK)
+tile.log.jungle.name=Jungle Wood §r§a§l§o::§r§b log §r§a§l§o::§r§d 3 (UP/DOWN), 7 (EAST/WEST), 11 (NORTH/SOUTH),15 (BARK)
+tile.log.oak.name=Oak Wood §r§a§l§o::§r§b log §r§a§l§o::§r§d 0 (UP/DOWN), 4 (EAST/WEST), 8 (NORTH/SOUTH),12 (BARK)
+tile.log.spruce.name=Spruce Wood §r§a§l§o::§r§b log §r§a§l§o::§r§d 1 (UP/DOWN), 5 (EAST/WEST), 6 (NORTH/SOUTH),17 (BARK)
+
+tile.magma.name=Magma Block §r§a§l§o::§r§b magma
+
+tile.melon_block.name=Melon §r§a§l§o::§r§b melon_block
+
+tile.mob_spawner.name=Monster Spawner §r§a§l§o::§r§b mob_spawner
+
+tile.monster_egg.brick.name=Stone Brick Monster Egg §r§a§l§o::§r§b monster_egg §r§a§l§o::§r§d 2
+tile.monster_egg.chiseledbrick.name=Chiseled Stone Brick Monster Egg §r§a§l§o::§r§b monster_egg §r§a§l§o::§r§d 5
+tile.monster_egg.cobble.name=Cobblestone Monster Egg §r§a§l§o::§r§b monster_egg §r§a§l§o::§r§d 1
+tile.monster_egg.crackedbrick.name=Cracked Stone Brick Monster Egg §r§a§l§o::§r§b monster_egg §r§a§l§o::§r§d 4
+tile.monster_egg.mossybrick.name=Mossy Stone Brick Monster Egg §r§a§l§o::§r§b monster_egg §r§a§l§o::§r§d 3
+tile.monster_egg.stone.name=Stone Monster Egg §r§a§l§o::§r§b monster_egg §r§a§l§o::§r§d 0
+
+tile.mushroom.name=Mushroom §r§a§l§o::§r§b mushroom
+
+tile.noteblock.name=Note Block §r§a§l§o::§r§b noteblock
+
+tile.mycelium.name=Mycelium §r§a§l§o::§r§b mycdlium
+
+tile.nether_brick.name=Nether Brick Block §r§a§l§o::§r§b nether_brick
+
+tile.red_nether_brick.name=Red Nether Brick §r§a§l§o::§r§b red_nether_brick
+
+tile.nether_brick_fence.name=Nether Brick Fence §r§a§l§o::§r§b nether_brick_fence
+
+tile.quartz_ore.name=Nether Quartz Ore §r§a§l§o::§r§b quartz_ore
+
+tile.nether_wart.name=Nether Wart §r§a§l§o::§r§b nether_wart §r§a§l§o::§r§d 0-3
+tile.nether_wart_block.name=Nether Wart Block §r§a§l§o::§r§b nether_wart_block
+
+tile.redstone_torch.name=Redstone Torch §r§a§l§o::§r§b redstone_torch
+
+tile.obsidian.name=Obsidian §r§a§l§o::§r§b obsidian
+
+tile.coal_ore.name=Coal Ore §r§a§l§o::§r§b coal_ore
+tile.diamond_ore.name=Diamond Ore §r§a§l§o::§r§b diamond_ore
+tile.emerald_ore.name=Emerald Ore §r§a§l§o::§r§b emerald_ore
+tile.gold_ore.name=Gold Ore §r§a§l§o::§r§b gold_ore
+tile.iron_ore.name=Iron Ore §r§a§l§o::§r§b iron_ore
+tile.lapis_ore.name=Lapis Lazuli Ore §r§a§l§o::§r§b lapis_ore
+tile.redstone_ore.name=Redstone Ore §r§a§l§o::§r§b redstone_ore
+
+tile.observer.name=Observer §r§a§l§o::§r§b observe §r§a§l§o::§r§d 0 (DOWN), 1 (UP), 2 (SOUTH), 3 (NORTH), 4 (EAST), 5 (WEST)
+
+tile.piston.name=Piston §r§a§l§o::§r§b piston
+tile.sticky_piston.name=Sticky Piston §r§a§l§o::§r§b stick_piston
+
+tile.portal.name=Portal §r§a§l§o::§r§b portal
+
+tile.potatoes.name=Potatoes §r§a§l§o::§r§b potatoes
+
+tile.stone_pressure_plate.name=Stone Pressure Plate §r§a§l§o::§r§b stone_pressure_plate
+tile.wooden_pressure_plate.name=Oak Pressure Plate §r§a§l§o::§r§b wooden_pressure_plate
+tile.acacia_pressure_plate.name=Acacia Pressure Plate §r§a§l§o::§r§b acacia_pressure_plate
+tile.birch_pressure_plate.name=Birch Pressure Plate §r§a§l§o::§r§b birch_pressure_plate
+tile.dark_oak_pressure_plate.name=Dark Oak Pressure Plate §r§a§l§o::§r§b dark_oak_pressure_plate
+tile.jungle_pressure_plate.name=Jungle Pressure Plate §r§a§l§o::§r§b jungle_pressure_plate
+tile.spruce_pressure_plate.name=Spruce Pressure Plate §r§a§l§o::§r§b spruce_pressure_plate
+
+tile.prismarine.bricks.name=Prismarine Bricks §r§a§l§o::§r§b prismarine §r§a§l§o::§r§d 2
+tile.prismarine.dark.name=Dark Prismarine §r§a§l§o::§r§b prismarine §r§a§l§o::§r§d 1
+tile.prismarine.rough.name=Prismarine §r§a§l§o::§r§b prismarine §r§a§l§o::§r§d 0
+
+tile.pumpkin.name=Pumpkin §r§a§l§o::§r§b pumpkin
+tile.pumpkin_stem.name=Pumpkin Stem §r§a§l§o::§r§b pumpkin_stem
+
+tile.quartz_block.chiseled.name=Chiseled Quartz Block §r§a§l§o::§r§b quartz_block §r§a§l§o::§r§d 1 (VERTICAL), 5 (EAST/WEST), 9(NORTH/SOUTH), 13(SIDES)
+tile.quartz_block.default.name=Block of Quartz §r§a§l§o::§r§b quartz_block §r§a§l§o::§r§d 0
+tile.quartz_block.lines.name=Pillar Quartz Block §r§a§l§o::§r§b quartz_block §r§a§l§o::§r§d 2 (VERTICAL), 6 (EAST/WEST), 10(NORTH/SOUTH), 14(SIDES)
+
+tile.rail.name=Rail §r§a§l§o::§r§b rail
+
+tile.red_mushroom.name=Mushroom §r§a§l§o::§r§b red_mushroom
+tile.red_mushroom_block.name=Mushroom §r§a§l§o::§r§b red_mushroom_block
+
+tile.red_sandstone.chiseled.name=Chiseled Red Sandstone §r§a§l§o::§r§b red_sandstone §r§a§l§o::§r§d 1
+tile.red_sandstone.default.name=Red Sandstone §r§a§l§o::§r§b red_sandstone §r§a§l§o::§r§d 2
+tile.red_sandstone.smooth.name=Smooth Red Sandstone §r§a§l§o::§r§b red_sandstone §r§a§l§o::§r§d 0
+
+tile.redstone_wire.name=Redstone Dust §r§a§l§o::§r§b redstone_wire
+tile.redstone_lamp.name=Redstone Lamp §r§a§l§o::§r§b redstone_lamp
+
+tile.reeds.name=Sugar cane §r§a§l§o::§r§b reeds
+
+tile.sand.default.name=Sand sand §r§a§l§o::§r§d 0
+tile.sand.red.name=Red Sand §r§a§l§o::§r§b sand §r§a§l§o::§r§d 1
+
+tile.sandstone.chiseled.name=Chiseled Sandstone §r§a§l§o::§r§b sandstone §r§a§l§o::§r§d 1
+tile.sandstone.default.name=Sandstone §r§a§l§o::§r§b sandstone §r§a§l§o::§r§d 2
+tile.sandstone.smooth.name=Smooth Sandstone §r§a§l§o::§r§b sandstone §r§a§l§o::§r§d 0
+
+tile.sapling.acacia.name=Acacia Sapling §r§a§l§o::§r§b sapling §r§a§l§o::§r§d 4
+tile.sapling.big_oak.name=Dark Oak Sapling §r§a§l§o::§r§b sapling §r§a§l§o::§r§d 5
+tile.sapling.birch.name=Birch Sapling §r§a§l§o::§r§b sapling §r§a§l§o::§r§d 2
+tile.sapling.jungle.name=Jungle Sapling §r§a§l§o::§r§b sapling §r§a§l§o::§r§d 3
+tile.sapling.oak.name=Oak Sapling §r§a§l§o::§r§b sapling §r§a§l§o::§r§d 0
+tile.sapling.spruce.name=Spruce Sapling §r§a§l§o::§r§b sapling §r§a§l§o::§r§d 1
+
+tile.seaLantern.name=Sea Lantern §r§a§l§o::§r§b sealantern
+
+tile.standing_sign.name=Sign §r§a§l§o::§r§b standing_sign
+
+tile.slime.name=Slime Block §r§a§l§o::§r§b slime
+
+tile.snow.name=Snow §r§a§l§o::§r§b snow
+
+tile.sponge.dry.name=Sponge §r§a§l§o::§r§b sponge §r§a§l§o::§r§d 0
+tile.sponge.wet.name=Wet Sponge §r§a§l§o::§r§b sponge §r§a§l§o::§r§d 1
+
+tile.spruceFence.name=Spruce Fence §r§a§l§o::§r§b fence §r§a§l§o::§r§d 1
+tile.spruce_fence_gate.name=Spruce Fence Gate §r§a§l§o::§r§b spruce_fence_gate
+
+tile.brick_stairs.name=Brick Stairs §r§a§l§o::§r§b brick_stairs
+tile.nether_brick_stairs.name=Nether Brick Stairs §r§a§l§o::§r§b nether_brick_stairs
+tile.quartz_stairs.name=Quartz Stairs §r§a§l§o::§r§b quartz_stairs
+tile.red_sandstone_stairs.name=Red Sandstone Stairs §r§a§l§o::§r§b red_sandstone_stairs
+tile.sandstone_stairs.name=Sandstone Stairs §r§a§l§o::§r§b sandstone_stairs
+tile.stone_stairs.name=Cobblestone Stairs §r§a§l§o::§r§b stone_stairs
+tile.stone_brick_stairs.name=Stone Brick Stairs §r§a§l§o::§r§b stone_brick_stairs
+tile.oak_stairs.name=Oak Wood Stairs §r§a§l§o::§r§b oak_stairs
+tile.acacia_stairs.name=Acacia Wood Stairs §r§a§l§o::§r§b acacia_stairs
+tile.birch_stairs.name=Birch Wood Stairs §r§a§l§o::§r§b birch_stairs
+tile.dark_oak_stairs.name=Dark Oak Wood Stairs §r§a§l§o::§r§b dark_oak_stairs
+tile.jungle_stairs.name=Jungle Wood Stairs §r§a§l§o::§r§b jungle_stairs
+tile.spruce_stairs.name=Spruce Wood Stairs §r§a§l§o::§r§b spruce_stairs
+tile.purpur_stairs.name=Purpur Stairs §r§a§l§o::§r§b purpur_stairs
+tile.prismarine_stairs.name=Prismarine Stairs §r§a§l§o::§r§b prismarine_stairs
+tile.dark_prismarine_stairs.name=Dark Prismarine Stairs §r§a§l§o::§r§b dark_prismarine_stairs
+tile.prismarine_bricks_stairs.name=Prismarine Brick Stairs §r§a§l§o::§r§b prismarine_bricks_stairs
+
+tile.stone.andesite.name=Andesite §r§a§l§o::§r§b stone §r§a§l§o::§r§d 5
+tile.stone.andesiteSmooth.name=Polished Andesite §r§a§l§o::§r§b stone §r§a§l§o::§r§d 6
+tile.stone.diorite.name=Diorite §r§a§l§o::§r§b stone §r§a§l§o::§r§d 3
+tile.stone.dioriteSmooth.name=Polished Diorite §r§a§l§o::§r§b stone §r§a§l§o::§r§d 4
+tile.stone.granite.name=Granite §r§a§l§o::§r§b stone §r§a§l§o::§r§d 1
+tile.stone.graniteSmooth.name=Polished Granite §r§a§l§o::§r§b stone §r§a§l§o::§r§d 2
+tile.stone.stone.name=Stone §r§a§l§o::§r§b stone §r§a§l§o::§r§d 0
+
+tile.cobblestone.name=Cobblestone §r§a§l§o::§r§b cobblestone
+
+tile.stonebrick.chiseled.name=Chiseled Stone Bricks §r§a§l§o::§r§b stonebrick §r§a§l§o::§r§d 3
+tile.stonebrick.cracked.name=Cracked Stone Bricks §r§a§l§o::§r§b stonebrick §r§a§l§o::§r§d 2
+tile.stonebrick.default.name=Stone Bricks §r§a§l§o::§r§b stonebrick §r§a§l§o::§r§d 0
+tile.stonebrick.mossy.name=Mossy Stone Bricks §r§a§l§o::§r§b stonebrick §r§a§l§o::§r§d 1
+
+tile.stonecutter.name=Stonecutter §r§a§l§o::§r§b stonecutter
+
+tile.mossy_cobblestone.name=Moss Stone §r§a§l§o::§r§b mossy_cobblestone
+
+tile.stone_slab.brick.name=Bricks Slab §r§a§l§o::§r§b stone_slab §r§a§l§o::§r§d 4 (LOWER), 12 (UPPER)
+tile.stone_slab.cobble.name=Cobblestone Slab §r§a§l§o::§r§b stone_slab §r§a§l§o::§r§d 3 (LOWER), 11 (UPPER)
+tile.stone_slab.nether_brick.name=Nether Brick Slab §r§a§l§o::§r§b stone_slab §r§a§l§o::§r§d 6 (LOWER), 14 (UPPER)
+tile.stone_slab.quartz.name=Quartz Slab §r§a§l§o::§r§b stone_slab §r§a§l§o::§r§d 7 (LOWER), 15 (UPPER)
+tile.stone_slab.sand.name=Sandstone Slab §r§a§l§o::§r§b stone_slab §r§a§l§o::§r§d 1 (LOWER), 9 (UPPER)
+tile.stone_slab.smoothStoneBrick.name=Stone Bricks Slab §r§a§l§o::§r§b stone_slab §r§a§l§o::§r§d 5 (LOWER), 13 (UPPER)
+tile.stone_slab.stone.name=Stone Slab §r§a§l§o::§r§b stone_slab §r§a§l§o::§r§d 0 (LOWER), 8 (UPPER)
+tile.stone_slab.wood.name=Wooden Slab §r§a§l§o::§r§b stone_slab §r§a§l§o::§r§d 2 (LOWER), 10 (UPPER)
+
+tile.stone_slab2.red_sandstone.name=Red Sandstone Slab §r§a§l§o::§r§b stone_slab2 §r§a§l§o::§r§d 0 (LOWER), 8 (UPPER)
+tile.stone_slab2.purpur.name=Purpur Slab §r§a§l§o::§r§b stone_slab2 §r§a§l§o::§r§d 1 (LOWER), 9 (UPPER)
+tile.stone_slab2.prismarine.rough.name=Prismarine Slab §r§a§l§o::§r§b stone_slab2 §r§a§l§o::§r§d 2 (LOWER), 10 (UPPER)
+tile.stone_slab2.prismarine.dark.name=Dark Prismarine Slab §r§a§l§o::§r§b stone_slab2 §r§a§l§o::§r§d 4 (LOWER), 12 (UPPER)
+tile.stone_slab2.prismarine.bricks.name=Prismarine Bricks Slab §r§a§l§o::§r§b stone_slab2 §r§a§l§o::§r§d 3 (LOWER), 11 (UPPER)
+
+tile.coral_block.blue.name=Tube Coral Block §r§a§l§o::§r§b coral_block §r§a§l§o::§r§d 0
+tile.coral_block.pink.name=Brain Coral Block §r§a§l§o::§r§b coral_block §r§a§l§o::§r§d 1
+tile.coral_block.purple.name=Bubble Coral Block §r§a§l§o::§r§b coral_block §r§a§l§o::§r§d 2
+tile.coral_block.red.name=Fire Coral Block §r§a§l§o::§r§b coral_block §r§a§l§o::§r§d 3
+tile.coral_block.yellow.name=Horn Coral Block §r§a§l§o::§r§b coral_block §r§a§l§o::§r§d 4
+tile.coral_block.blue_dead.name=Dead Tube Coral Block §r§a§l§o::§r§b coral_block §r§a§l§o::§r§d 5
+tile.coral_block.pink_dead.name=Dead Brain Coral Block §r§a§l§o::§r§b coral_block §r§a§l§o::§r§d 6
+tile.coral_block.purple_dead.name=Dead Bubble Coral Block §r§a§l§o::§r§b coral_block §r§a§l§o::§r§d 7
+tile.coral_block.red_dead.name=Dead Fire Coral Block §r§a§l§o::§r§b coral_block §r§a§l§o::§r§d 8
+tile.coral_block.yellow_dead.name=Dead Horn Coral Block §r§a§l§o::§r§b coral_block §r§a§l§o::§r§d 9
+
+tile.tallgrass.fern.name=Fern §r§a§l§o::§r§b tallgrass §r§a§l§o::§r§d 1
+tile.tallgrass.grass.name=Grass §r§a§l§o::§r§b tallgrass §r§a§l§o::§r§d 0
+tile.tallgrass.shrub.name=Shrub §r§a§l§o::§r§b deadbush
+tile.seagrass.seagrass.name=Seagrass §r§a§l§o::§r§b seagrass §r§a§l§o::§r§d 0-2
+
+tile.sea_pickle.name=Sea Pickle §r§a§l§o::§r§b sea_pickle §r§a§l§o::§r§d 0-3 (AMOUNT)
+
+tile.turtle_egg.name=Sea Turtle Egg §r§a§l§o::§r§b turtle_egg §r§a§l§o::§r§d 0-3 (AMOUNT)
+
+tile.coral.blue.name=Tube Coral §r§a§l§o::§r§b coral §r§a§l§o::§r§d 0
+tile.coral.pink.name=Brain Coral §r§a§l§o::§r§b coral §r§a§l§o::§r§d 1
+tile.coral.purple.name=Bubble Coral §r§a§l§o::§r§b coral §r§a§l§o::§r§d 2
+tile.coral.red.name=Fire Coral §r§a§l§o::§r§b coral §r§a§l§o::§r§d 3
+tile.coral.yellow.name=Horn Coral §r§a§l§o::§r§b coral §r§a§l§o::§r§d 4
+
+tile.coral_fan.blue_fan.name=Tube Coral Fan §r§a§l§o::§r§b coral_fan §r§a§l§o::§r§d 0
+tile.coral_fan.pink_fan.name=Brain Coral Fan §r§a§l§o::§r§b coral_fan §r§a§l§o::§r§d 1
+tile.coral_fan.purple_fan.name=Bubble Coral Fan §r§a§l§o::§r§b coral_fan §r§a§l§o::§r§d 2
+tile.coral_fan.red_fan.name=Fire Coral Fan §r§a§l§o::§r§b coral_fan §r§a§l§o::§r§d 3
+tile.coral_fan.yellow_fan.name=Horn Coral Fan §r§a§l§o::§r§b coral_fan §r§a§l§o::§r§d 4
+
+tile.coral_fan_dead.blue_fan.name=Dead Tube Coral Fan §r§a§l§o::§r§b coral_fan_dead §r§a§l§o::§r§d 0
+tile.coral_fan_dead.pink_fan.name=Dead Brain Coral Fan §r§a§l§o::§r§b coral_fan_dead §r§a§l§o::§r§d 1
+tile.coral_fan_dead.purple_fan.name=Dead Bubble Coral Fan §r§a§l§o::§r§b coral_fan_dead §r§a§l§o::§r§d 2
+tile.coral_fan_dead.red_fan.name=Dead Fire Coral Fan §r§a§l§o::§r§b coral_fan_dead §r§a§l§o::§r§d 3
+tile.coral_fan_dead.yellow_fan.name=Dead Horn Coral Fan §r§a§l§o::§r§b coral_fan_dead §r§a§l§o::§r§d 4
+
+tile.glass_pane.name=Glass Pane §r§a§l§o::§r§b glass_pane
+
+tile.tnt.name=TNT §r§a§l§o::§r§b tnt
+
+tile.snow_layer.name=Top Snow §r§a§l§o::§r§b snow_layer §r§a§l§o::§r§d 0-7 (LEVELS)
+
+tile.torch.name=Torch §r§a§l§o::§r§b torch
+
+tile.trapdoor.name=Oak Trapdoor §r§a§l§o::§r§b wooden_trapdoor
+tile.acacia_trapdoor.name=Acacia Trapdoor §r§a§l§o::§r§b acacia_trapdoor
+tile.birch_trapdoor.name=Birch Trapdoor §r§a§l§o::§r§b birch_trapdoor
+tile.dark_oak_trapdoor.name=Dark Oak Trapdoor §r§a§l§o::§r§b dark_oak_trapdoor
+tile.jungle_trapdoor.name=Jungle Trapdoor §r§a§l§o::§r§b jungle_trapdoor
+tile.spruce_trapdoor.name=Spruce Trapdoor §r§a§l§o::§r§b spruce_trapdoor
+
+tile.tripWire.name=Tripwire §r§a§l§o::§r§b tripwire
+tile.tripwire_hook.name=Tripwire Hook §r§a§l§o::§r§b tripwire_hook
+
+tile.vine.name=Vines §r§a§l§o::§r§b vine
+
+tile.flowing_water.name=Water §r§a§l§o::§r§b flowing_water
+tile.water.name=Water §r§a§l§o::§r§b water
+
+tile.waterlily.name=Lily Pad §r§a§l§o::§r§b waterlily
+
+tile.web.name=Cobweb §r§a§l§o::§r§b web
+
+tile.heavy_weighted_pressure_plate.name=Weighted Pressure Plate (Heavy) §r§a§l§o::§r§b heavy_weighted_pressure_plate
+tile.light_weighted_pressure_plate.name=Weighted Pressure Plate (Light) §r§a§l§o::§r§b light_weighted_pressure_plate
+
+tile.end_stone.name=End Stone §r§a§l§o::§r§b end_stone
+tile.end_bricks.name=End Stone Bricks §r§a§l§o::§r§b end_bricks
+
+tile.planks.acacia.name=Acacia Wood Planks §r§a§l§o::§r§b planks §r§a§l§o::§r§d 4
+tile.planks.big_oak.name=Dark Oak Wood Planks §r§a§l§o::§r§b planks §r§a§l§o::§r§d 5
+tile.planks.birch.name=Birch Wood Planks §r§a§l§o::§r§b planks §r§a§l§o::§r§d 2
+tile.planks.jungle.name=Jungle Wood Planks §r§a§l§o::§r§b planks §r§a§l§o::§r§d 3
+tile.planks.oak.name=Oak Wood Planks §r§a§l§o::§r§b planks §r§a§l§o::§r§d 0
+tile.planks.spruce.name=Spruce Wood Planks §r§a§l§o::§r§b planks §r§a§l§o::§r§d 1
+
+tile.wooden_slab.acacia.name=Acacia Wood Slab §r§a§l§o::§r§b wooden_slab §r§a§l§o::§r§d 4
+tile.wooden_slab.big_oak.name=Dark Oak Wood Slab §r§a§l§o::§r§b wooden_slab §r§a§l§o::§r§d 5
+tile.wooden_slab.birch.name=Birch Wood Slab §r§a§l§o::§r§b wooden_slab §r§a§l§o::§r§d 
+tile.wooden_slab.jungle.name=Jungle Wood Slab §r§a§l§o::§r§b wooden_slab §r§a§l§o::§r§d 3
+tile.wooden_slab.oak.name=Oak Wood Slab §r§a§l§o::§r§b wooden_slab §r§a§l§o::§r§d 0
+tile.wooden_slab.spruce.name=Spruce Wood Slab §r§a§l§o::§r§b wooden_slab §r§a§l§o::§r§d 1
+
+tile.carpet.black.name=Black Carpet §r§a§l§o::§r§b carpet §r§a§l§o::§r§d 15
+tile.carpet.blue.name=Blue Carpet §r§a§l§o::§r§b carpet §r§a§l§o::§r§d 11
+tile.carpet.brown.name=Brown Carpet §r§a§l§o::§r§b carpet §r§a§l§o::§r§d 12
+tile.carpet.cyan.name=Cyan Carpet §r§a§l§o::§r§b carpet §r§a§l§o::§r§d 9
+tile.carpet.gray.name=Gray Carpet §r§a§l§o::§r§b carpet §r§a§l§o::§r§d 7
+tile.carpet.green.name=Green Carpet §r§a§l§o::§r§b carpet §r§a§l§o::§r§d 13
+tile.carpet.lightBlue.name=Light Blue Carpet §r§a§l§o::§r§b carpet §r§a§l§o::§r§d 3
+tile.carpet.lime.name=Lime Carpet §r§a§l§o::§r§b carpet §r§a§l§o::§r§d 5
+tile.carpet.magenta.name=Magenta Carpet §r§a§l§o::§r§b carpet §r§a§l§o::§r§d 2
+tile.carpet.orange.name=Orange Carpet §r§a§l§o::§r§b carpet §r§a§l§o::§r§d 1
+tile.carpet.pink.name=Pink Carpet §r§a§l§o::§r§b carpet §r§a§l§o::§r§d 6
+tile.carpet.purple.name=Purple Carpet §r§a§l§o::§r§b carpet §r§a§l§o::§r§d 10
+tile.carpet.red.name=Red Carpet §r§a§l§o::§r§b carpet §r§a§l§o::§r§d 14
+tile.carpet.silver.name=Light Gray Carpet §r§a§l§o::§r§b carpet §r§a§l§o::§r§d 8
+tile.carpet.white.name=White Carpet §r§a§l§o::§r§b carpet §r§a§l§o::§r§d 0
+tile.carpet.yellow.name=Yellow Carpet §r§a§l§o::§r§b carpet §r§a§l§o::§r§d 4
+
+tile.crafting_table.name=Crafting Table §r§a§l§o::§r§b crafting_table
+
+tile.dragon_egg.name=Dragon Egg §r§a§l§o::§r§b dragon_egg
+
+tile.glazedTerracotta.white.name=White Glazed Terracotta §r§a§l§o::§r§b white_glazed_terracotta
+tile.glazedTerracotta.orange.name=Orange Glazed Terracotta §r§a§l§o::§r§b orange_glazed_terracotta
+tile.glazedTerracotta.magenta.name=Magenta Glazed Terracotta §r§a§l§o::§r§b magenta_glazed_terracotta
+tile.glazedTerracotta.light_blue.name=Light Blue Glazed Terracotta §r§a§l§o::§r§b light_blue_glazed_terracotta
+tile.glazedTerracotta.yellow.name=Yellow Glazed Terracotta §r§a§l§o::§r§b yellow_glazed_terracotta
+tile.glazedTerracotta.lime.name=Lime Glazed Terracotta §r§a§l§o::§r§b lime_glazed_terracotta
+tile.glazedTerracotta.pink.name=Pink Glazed Terracotta §r§a§l§o::§r§b pink_glazed_terracotta
+tile.glazedTerracotta.gray.name=Gray Glazed Terracotta §r§a§l§o::§r§b gray_glazed_terracotta
+tile.glazedTerracotta.silver.name=Light Gray Glazed Terracotta §r§a§l§o::§r§b silver_glazed_terracotta
+tile.glazedTerracotta.cyan.name=Cyan Glazed Terracotta §r§a§l§o::§r§b cyan_glazed_terracotta
+tile.glazedTerracotta.purple.name=Purple Glazed Terracotta §r§a§l§o::§r§b purple_glazed_terracotta
+tile.glazedTerracotta.blue.name=Blue Glazed Terracotta §r§a§l§o::§r§b blue_glazed_terracotta
+tile.glazedTerracotta.brown.name=Brown Glazed Terracotta §r§a§l§o::§r§b brown_glazed_terracotta
+tile.glazedTerracotta.green.name=Green Glazed Terracotta §r§a§l§o::§r§b green_glazed_terracotta
+tile.glazedTerracotta.red.name=Red Glazed Terracotta §r§a§l§o::§r§b red_glazed_terracotta
+tile.glazedTerracotta.black.name=Black Glazed Terracotta §r§a§l§o::§r§b black_glazed_terracotta
+
+tile.concrete.black.name=Black Concrete §r§a§l§o::§r§b concrete §r§a§l§o::§r§d 15
+tile.concrete.red.name=Red Concrete §r§a§l§o::§r§b concrete §r§a§l§o::§r§d 14
+tile.concrete.green.name=Green Concrete §r§a§l§o::§r§b concrete §r§a§l§o::§r§d 13
+tile.concrete.brown.name=Brown Concrete §r§a§l§o::§r§b concrete §r§a§l§o::§r§d 12
+tile.concrete.blue.name=Blue Concrete §r§a§l§o::§r§b concrete §r§a§l§o::§r§d 11
+tile.concrete.purple.name=Purple Concrete §r§a§l§o::§r§b concrete §r§a§l§o::§r§d 10
+tile.concrete.cyan.name=Cyan Concrete §r§a§l§o::§r§b concrete §r§a§l§o::§r§d 9
+tile.concrete.silver.name=Light Gray Concrete §r§a§l§o::§r§b concrete §r§a§l§o::§r§d 8
+tile.concrete.gray.name=Gray Concrete §r§a§l§o::§r§b concrete §r§a§l§o::§r§d 7
+tile.concrete.pink.name=Pink Concrete §r§a§l§o::§r§b concrete §r§a§l§o::§r§d 6
+tile.concrete.lime.name=Lime Concrete §r§a§l§o::§r§b concrete §r§a§l§o::§r§d 5
+tile.concrete.yellow.name=Yellow Concrete §r§a§l§o::§r§b concrete §r§a§l§o::§r§d 4
+tile.concrete.lightBlue.name=Light Blue Concrete §r§a§l§o::§r§b concrete §r§a§l§o::§r§d 3
+tile.concrete.magenta.name=Magenta Concrete §r§a§l§o::§r§b concrete §r§a§l§o::§r§d 2
+tile.concrete.orange.name=Orange Concrete §r§a§l§o::§r§b concrete §r§a§l§o::§r§d 1
+tile.concrete.white.name=White Concrete §r§a§l§o::§r§b concrete §r§a§l§o::§r§d 0
+
+tile.glazedTerracottaWhite.name=White Glazed Terracotta §r§a§l§o::§r§b white_glazed_terracotta
+tile.glazedTerracottaOrange.name=Orange Glazed Terracotta §r§a§l§o::§r§b orange_glazed_terracotta
+tile.glazedTerracottaMagenta.name=Magenta Glazed Terracotta §r§a§l§o::§r§b magenta_glazed_terracotta
+tile.glazedTerracottaLightBlue.name=Light Blue Glazed Terracotta §r§a§l§o::§r§b light_blue_glazed_terracotta
+tile.glazedTerracottaYellow.name=Yellow Glazed Terracotta §r§a§l§o::§r§b yellow_glazed_terracotta
+tile.glazedTerracottaLime.name=Lime Glazed Terracotta §r§a§l§o::§r§b lime_glazed_terracotta
+tile.glazedTerracottaPink.name=Pink Glazed Terracotta §r§a§l§o::§r§b pink_glazed_terracotta
+tile.glazedTerracottaGray.name=Gray Glazed Terracotta §r§a§l§o::§r§b gray_glazed_terracotta
+tile.glazedTerracottaSilver.name=Light Gray Glazed Terracotta §r§a§l§o::§r§b silver_glazed_terracotta
+tile.glazedTerracottaCyan.name=Cyan Glazed Terracotta §r§a§l§o::§r§b cyan_glazed_terracotta
+tile.glazedTerracottaPurple.name=Purple Glazed Terracotta §r§a§l§o::§r§b purple_glazed_terracotta
+tile.glazedTerracottaBlue.name=Blue Glazed Terracotta §r§a§l§o::§r§b blue_glazed_terracotta
+tile.glazedTerracottaBrown.name=Brown Glazed Terracotta §r§a§l§o::§r§b brown_glazed_terracotta
+tile.glazedTerracottaGreen.name=Green Glazed Terracotta §r§a§l§o::§r§b green_glazed_terracotta
+tile.glazedTerracottaRed.name=Red Glazed Terracotta §r§a§l§o::§r§b red_glazed_terracotta
+tile.glazedTerracottaBlack.name=Black Glazed Terracotta §r§a§l§o::§r§b black_glazed_terracotta
+
+tile.concretePowder.black.name=Black Concrete Powder §r§a§l§o::§r§b concretepowder §r§a§l§o::§r§d 15
+tile.concretePowder.red.name=Red Concrete Powder §r§a§l§o::§r§b concretepowder §r§a§l§o::§r§d 14
+tile.concretePowder.green.name=Green Concrete Powder §r§a§l§o::§r§b concretepowder §r§a§l§o::§r§d 13
+tile.concretePowder.brown.name=Brown Concrete Powder §r§a§l§o::§r§b concretepowder §r§a§l§o::§r§d 12
+tile.concretePowder.blue.name=Blue Concrete Powder §r§a§l§o::§r§b concretepowder §r§a§l§o::§r§d 11
+tile.concretePowder.purple.name=Purple Concrete Powder §r§a§l§o::§r§b concretepowder §r§a§l§o::§r§d 10
+tile.concretePowder.cyan.name=Cyan Concrete Powder §r§a§l§o::§r§b concretepowder §r§a§l§o::§r§d 9
+tile.concretePowder.silver.name=Light Gray Concrete Powder §r§a§l§o::§r§b concretepowder §r§a§l§o::§r§d 8
+tile.concretePowder.gray.name=Gray Concrete Powder §r§a§l§o::§r§b concretepowder §r§a§l§o::§r§d 7
+tile.concretePowder.pink.name=Pink Concrete Powder §r§a§l§o::§r§b concretepowder §r§a§l§o::§r§d 6
+tile.concretePowder.lime.name=Lime Concrete Powder §r§a§l§o::§r§b concretepowder §r§a§l§o::§r§d 5
+tile.concretePowder.yellow.name=Yellow Concrete Powder §r§a§l§o::§r§b concretepowder §r§a§l§o::§r§d 4
+tile.concretePowder.lightBlue.name=Light Blue Concrete Powder §r§a§l§o::§r§b concretepowder §r§a§l§o::§r§d 3
+tile.concretePowder.magenta.name=Magenta Concrete Powder §r§a§l§o::§r§b concretepowder §r§a§l§o::§r§d 2
+tile.concretePowder.orange.name=Orange Concrete Powder §r§a§l§o::§r§b concretepowder §r§a§l§o::§r§d 1
+tile.concretePowder.white.name=White Concrete Powder §r§a§l§o::§r§b concretepowder §r§a§l§o::§r§d 0
+
+tile.stripped_spruce_log.name=Stripped Spruce Wood §r§a§l§o::§r§b stripped_spruce_log
+tile.stripped_dark_oak_log.name=Stripped Dark Oak Wood §r§a§l§o::§r§b stripped_dark_oak_log
+tile.stripped_birch_log.name=Stripped Birch Wood §r§a§l§o::§r§b stripped_birch_log
+tile.stripped_jungle_log.name=Stripped Jungle Wood §r§a§l§o::§r§b stripped_jungle_log
+tile.stripped_oak_log.name=Stripped Oak Wood §r§a§l§o::§r§b stripped_oak_log
+tile.stripped_acacia_log.name=Stripped Acacia Wood §r§a§l§o::§r§b stripped_acacia_log
